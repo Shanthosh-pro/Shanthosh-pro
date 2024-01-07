@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanthosh-pro
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on exiting project
+- 💞️ I’m looking to collaborate on exciting project
 
 <!---
 Shanthosh-pro/Shanthosh-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
